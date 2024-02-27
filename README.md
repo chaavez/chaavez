@@ -14,13 +14,22 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 🎉 Fora do mundo da tecnologia, adoro sair com meus amigos, ir para a academia ou caminhar, experimentar novos lugares e me divertir no geral.
 
 
+
+
+## O Que Você Pode Encontrar Aqui
+
+- Projetos pessoais e acadêmicos.
+- Exemplos de códigos em Kotlin e Java.
+- Talvez algumas aventuras em desenvolvimento de aplicativos móveis!
+
 ## Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-  
+
+
 ## Contatos
  
 <div>
