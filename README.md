@@ -26,9 +26,14 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Java" height="30" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
+##
+
+<div>
+ <img align="center" alt="MostLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaavez&layout=compact"> 
+</div>
 
 ## Contatos
  
