@@ -32,7 +32,7 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 ##
 
 <div>
- <img align="center" alt="MostLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaavez&layout=compact"> 
+ <img align="center" alt="MostLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaavez&layout=compact&theme=radical"> 
 </div>
 
 ## Contatos
