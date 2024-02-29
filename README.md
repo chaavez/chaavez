@@ -31,6 +31,8 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 
 <div style="display: inline_block"><br>
   DataBase: <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+ 
 </div>
 
 <div style="display: inline_block"><br>
