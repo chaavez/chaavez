@@ -22,11 +22,27 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 - Exemplos de códigos em Kotlin e Java.
 - Talvez algumas aventuras em desenvolvimento de aplicativos móveis!
 
-## Linguagens
+## 🔥 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+ Linguagens: <img align="center" alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Java" height="30" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+<div style="display: inline_block"><br>
+  DataBase: <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<div style="display: inline_block"><br>
+ IDEs: <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img align="center" alt="Android Studio" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</div>
+
+<div style="display: inline_block"><br>
+ Ferramentas: <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Github" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+ 
 </div>
 
 ##
