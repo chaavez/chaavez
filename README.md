@@ -7,7 +7,7 @@ Atualmente estou em busca da minha primeira oportunidade no mundo de desenvolvim
 
 👨🏻‍💻 Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-🌱 Atualmente tenho estudado desenvolvimento em Kotlin e Java para desenvolvimento de aplicativos móveis.
+🌱 Atualmente tenho estudado desenvolvimento em Kotlin e Java para desenvolvimento de aplicativos móveis e venho me aventurando com HTML e CSS.
 
 🧠 Sempre buscando aprender e aprimorar minhas habilidades em programação e desenvolvimento de software.
 
